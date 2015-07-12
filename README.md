@@ -1,2 +1,2 @@
 # ExploratoryDataAnalysisProject1
-The submission for Exploratory DataAnalysis Project1
+The submission for Exploratory Data Analysis Project1
